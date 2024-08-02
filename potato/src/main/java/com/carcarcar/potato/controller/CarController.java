@@ -6,6 +6,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import org.springframework.web.bind.annotation.CrossOrigin;
+
+@CrossOrigin(origins = "http://127.0.0.1:5500") // 프론트엔드 서버 주소
 
 // @RestController는 이 클래스가 RESTful 웹 서비스의 컨트롤러임을 나타냅니다.
 // 모든 메서드의 반환값은 HTTP 응답 본문으로 직접 전송됩니다.
