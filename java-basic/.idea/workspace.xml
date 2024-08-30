@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d065b0b-5ae1-4b9b-a568-84ad0f97eb10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +42,11 @@
     "Application.MemberConstructMain.executor": "Run",
     "Application.MovieReviewMain.executor": "Run",
     "Application.MovieReviewMain1.executor": "Run",
+    "Application.MusicPlayer.executor": "Run",
     "Application.MusicPlayerMain2.executor": "Run",
     "Application.ShoppingCartMain.executor": "Run",
     "Application.SpeakerMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -59,7 +60,7 @@
       <recent name="class1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueObjectMain">
+  <component name="RunManager" selected="Application.MusicPlayer">
     <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_car.CarMain" />
       <module name="java-basic2" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_shopping.ShoppingCartMain" />
+    <configuration name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="music.MusicPlayer" />
       <module name="java-basic2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_shopping.*" />
+          <option name="PATTERN" value="music.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MusicPlayer" />
         <item itemvalue="Application.ValueObjectMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MathMain" />
         <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.ShoppingCartMain" />
       </list>
     </recent_temporary>
   </component>
