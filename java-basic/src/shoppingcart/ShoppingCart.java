@@ -2,10 +2,9 @@ package shoppingcart;
 
 public class ShoppingCart {
 
-    public ShoppingCart(){
-
-    }
-    public void addItem(ShoppingCart cart){
+    private Item[] items = new Item[10];
+    private int itemCount;
+    public void addItem(Item item){
 
     }
 }

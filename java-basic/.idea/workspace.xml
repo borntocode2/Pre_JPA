@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6edca88-f66e-4cb4-94be-2c8883f50eaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maxcounter/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxcounter/MaxCounterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingcart/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingcart/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shoppingcart/ShoppingCartMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shoppingcart/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shoppingcart/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
