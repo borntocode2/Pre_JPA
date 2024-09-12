@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6edca88-f66e-4cb4-94be-2c8883f50eaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Construct/ConstuctMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MemberConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxcounter/MaxCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxcounter/MaxCounterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shoppingcart/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shoppingcart/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shoppingcart/ShoppingCartMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Construct/MemberConstruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Construct/MemberConstruct.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConstuctMain1.executor": "Run",
+    "Application.MaxCounterMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
@@ -48,7 +49,7 @@
       <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MaxCounterMain">
     <configuration name="ConstuctMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Construct.ConstuctMain1" />
       <module name="java-basic" />
@@ -62,8 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxCounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxcounter.MaxCounterMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maxcounter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxCounterMain" />
         <item itemvalue="Application.ConstuctMain1" />
       </list>
     </recent_temporary>
